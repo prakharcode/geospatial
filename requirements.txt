@@ -34,7 +34,7 @@ libpysal==4.1.1
 mapclassify==2.1.1
 MarkupSafe==1.1.1
 matplotlib==3.1.1
-mistune==0.8.4
+mistune==2.0.3
 munch==2.3.2
 nbconvert==5.6.0
 nbformat==4.4.0
